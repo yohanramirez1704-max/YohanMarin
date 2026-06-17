@@ -38,6 +38,17 @@ Este portafolio refleja mi compromiso con el desarrollo de software bajo estánd
 | 08 | [Sistema de Nómina POO](proyecto_08_sistema_nomina_poo_gui.py) | Gestión avanzada con herencia y polimorfismo. |
 | 09 | [Cazador de Contraseñas](proyecto_09_cazador_contrasenas_gui.py) | Juego con validaciones de seguridad y POO. |
 
+## 📂 Índice de Proyectos
+
+| # | Nombre del Proyecto | Descripción Breve |
+| :--- | :--- | :--- |
+| 01 | [Bosque Encantado](proyecto_01_bosque_encantado.py) | Aventura interactiva con lógica de decisiones. |
+| 02 | [Analizador de Matrices](proyecto_02_analizador_matrices.py) | Procesamiento matemático y estadístico de datos. |
+| ... | ... | ... |
+| 09 | [Cazador de Contraseñas](proyecto_09_cazador_contrasenas_gui.py) | Juego con validaciones de seguridad y POO. |
+
+## 📬 Contacto
+
 ## 📬 Contacto
 ¿Tienes dudas o sugerencias? ¡Hablemos!
 * [LinkedIn - Yohan Alfredo Marín Ramirez](www.linkedin.com/in/yohan-alfredo-marín-ramirez-821017417).
