@@ -41,4 +41,4 @@ Este portafolio refleja mi compromiso con el desarrollo de software bajo estánd
 
 ## 📬 Contacto
 ¿Tienes dudas o sugerencias? ¡Hablemos!
-* [LinkedIn - Yohan Alfredo Marín Ramirez](www.linkedin.com/in/yohan-alfredo-marín-ramirez-821017417).
+* [LinkedIn - Yohan Alfredo Marín Ramirez](https://www.linkedin.com/in/yohan-alfredo-mar%C3%ADn-ramirez-821017417).
