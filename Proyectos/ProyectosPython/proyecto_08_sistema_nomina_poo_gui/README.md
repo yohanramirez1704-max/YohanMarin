@@ -3,6 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![POO](https://img.shields.io/badge/POO-Herencia_M%C3%BAltiple-purple?style=for-the-badge)
 ![GUI](https://img.shields.io/badge/UI-Tkinter_TTK-lightgrey?style=for-the-badge)
+## 📸 Vista Previa del Programa
+
+![Interfaz del Programa](./img/preview_1.png)(./img/preview_2.png)
 
 Solución empresarial avanzada con interfaz gráfica para la gestión y liquidación de salarios basada en polimorfismo y herencia múltiple.
 

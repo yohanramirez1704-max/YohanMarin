@@ -5,7 +5,7 @@
 ![Security](https://img.shields.io/badge/Estandar-Criptograf%C3%ADa-red?style=for-the-badge)
 ## 📸 Vista Previa del Programa
 
-![Interfaz del Juego](./img/preview.png)
+![Interfaz del Programa](./img/preview.png)
 
 Un videojuego interactivo de escritorio basado en mecánicas de rol y gamificación donde el objetivo principal es generar llaves criptográficas robustas para desbloquear cofres de distintas rarezas.
 

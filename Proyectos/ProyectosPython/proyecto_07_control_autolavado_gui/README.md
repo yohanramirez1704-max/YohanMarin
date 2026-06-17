@@ -3,6 +3,9 @@
 ![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)
 ![GUI](https://img.shields.io/badge/UI-Tkinter-lightgrey?style=for-the-badge)
 ![POO](https://img.shields.io/badge/Paradigma-POO--Encapsulado-darkgreen?style=for-the-badge)
+## 📸 Vista Previa del Programa
+
+![Interfaz del Juego](./img/preview.png)
 
 Aplicación de escritorio con interfaz gráfica interactiva (GUI) orientada a la administración del tiempo de ingreso y liquidación de tarifas financieras en un centro de lavado automotriz.
 
